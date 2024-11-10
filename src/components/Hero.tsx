@@ -14,7 +14,7 @@ const Hero = () => {
         <div className='hidden lg:block'></div>
         <div className='text-[80px] sm:text-[100px] font-bold leading-tight flex justify-center items-center'>
           <div className="flex">
-            <p className="inline-block" style={{ marginRight: '8px' }}>I'm</p>
+            <p className="inline-block" style={{ marginRight: '8px' }}>I&apos;m</p>
             <Typewriter
               textStyle={{
                 fontFamily: 'Courier, monospace',
